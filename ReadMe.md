@@ -109,4 +109,7 @@ We welcome contributions to improve the Bob Ross AI Painting Assistant. To contr
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](#) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Success0452/rossai-backend/blob/main/LICENSE) file for more details.
+
+For more updates and information, follow my [Hashnode]() Blog.
+
