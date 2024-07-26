@@ -28,8 +28,12 @@ Welcome to the Bob Ross AI Painting Assistant! This project allows users to crea
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/bob-ross-ai-painting-assistant.git
-cd bob-ross-ai-painting-assistant
+git clone https://github.com/Success0452/rossai-backend.git
+```
+```bash
+cd rossai-backend
+```
+```bash
 yarn install
 ```
 
